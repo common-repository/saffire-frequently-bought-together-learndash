@@ -1,0 +1,349 @@
+.ldfbt-purchase-pro-link:link, .ldfbt-purchase-pro-link:visited, .ldfbt-purchase-pro-link:active {
+    color: inherit;
+    text-decoration: none;
+    box-shadow: none;
+}
+.ldfbt-learndash-select2{
+    width:100% ! important;
+}
+
+#ldfbt_img_height, #ldfbt_img_width {
+    width:6.5%
+}
+
+.swal2-container {
+    z-index: 10000 !important;
+}
+
+/* Free to Pro Banner */
+.ldfbt-upgrade-col1 h2 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #F8C844;
+  }
+  .ldfbt-footer-upgrade{
+    width: 98%;
+    margin: 10px;
+    display: flex;
+    background: #0A2540;
+    border-radius: 16px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .ldfbt-footer-upgrade .sft-logo{ width: 25%; background: #FFF; display: flex; align-items: center; justify-content: center; border-radius: 14px 0 0 14px;}
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1{ width: 32%; padding-bottom: 20px;}
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col{ width: 38%;  padding: 10px; box-sizing: border-box;}
+  .ldfbt-footer-upgrade .sft-logo a{ display: inline-block; margin: 0; padding: 0; width: 80%;}
+  .ldfbt-footer-upgrade .sft-logo img{ max-width: 100%; height: auto;}
+    
+    
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 h3{ 
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 600;
+    color: #F8C844;
+  }
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 .ldfbt-moneyback-badge{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 .ldfbt-moneyback-badge > div:first-child{ width: 40%;}
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 .ldfbt-moneyback-badge > div:last-child{ width: 56%;}
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 .ldfbt-moneyback-badge > div h3{ color: #FFF;}
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 .ldfbt-moneyback-badge > div p{
+    font-size: 14px;
+    color: #FFF;
+    line-height: 18px;
+  }
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 .ldfbt-moneyback-badge > div .btn{
+    display: inline-block;
+    padding: 0 17px;
+    line-height: 38px;
+    border: none;
+    border-radius: 5px;
+    background: #00978D;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 .ldfbt-moneyback-badge > div .btn:hover{ background: #000;}
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col1 .ldfbt-moneyback-badge > div img{ max-width: 90%; height: auto;}
+    
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col > ul{
+    padding: 15px;
+    border: 2px dotted white;
+    border-radius: 7px;
+    color: white;
+  }
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col > ul li{
+    list-style-type: none; display: block; font-size: 14px; color: #FFF; line-height: 18px;
+  }
+  .ldfbt-footer-upgrade .ldfbt-upgrade-col > ul li strong{ font-weight: 900;}
+    
+  @media only screen and (min-width:300px) and (max-width:600px){
+    .ldfbt-footer-upgrade{ margin: 0;}
+    .ldfbt-footer-upgrade .sft-logo{ width: 100%;  border-radius: 14px 14px 0 0; padding: 25px 0;}
+    .ldfbt-footer-upgrade .ldfbt-upgrade-col1{ width: 100%; padding: 15px; box-sizing: border-box;}
+    .ldfbt-footer-upgrade .ldfbt-upgrade-col{ width: 100%;  padding: 10px; box-sizing: border-box;}
+  }
+  @media only screen and (min-width:600px) and (max-width:1200px){
+    .ldfbt-footer-upgrade .sft-logo a{ max-width: 200px;}
+    .ldfbt-footer-upgrade{ margin: 0;}
+    .ldfbt-footer-upgrade .sft-logo{ width: 100%;  border-radius: 14px 14px 0 0; padding: 25px 0;}
+    .ldfbt-footer-upgrade .ldfbt-upgrade-col1{ width: 50%; padding: 15px; box-sizing: border-box;}
+    .ldfbt-footer-upgrade .ldfbt-upgrade-col{ width: 50%;  padding: 10px; box-sizing: border-box;}
+  }
+  
+  /* Free to Pro Pop-up */
+  .ldfbt-upgrade-now{
+    padding: 20px;
+    background-color: #0A2540;
+    color: #ffffff !important;
+    border-radius: 5px;
+  }
+
+  .ldfbt-upgrade-now a{
+    color: white;
+    text-decoration: none
+  }
+
+  .fbtld-pro-alert{
+    margin: 5px;
+    color: white;
+    background: red;
+    border-radius: 12px;
+    font-size: 12px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+
+/* Upgrade to pro  */
+.ldfbt-setting-upgrade{
+    margin: 5px;
+    color: white;
+    background: #10a494;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+
+/* ===================================== COURSE PAGE WIDGET CSS ============================================== */
+
+
+/* Main Container to contain all cards */
+#ldfbt-upsells-widget-container {
+    margin-top: inherit;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.6rem;
+    border: 1px solid #d1d7dc;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+/* Heading - H2 */
+#ldfbt-upsells-widget-container-heading {
+    font-size: x-large;
+    margin: 10px 0px 30px 0px;
+}
+
+/* Individual FBT course main container */
+.ldfbt-upsells-widget-course-lists {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+/* Course container */
+.ldfbt-course-list-data {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+}
+
+.ldfbt-course-list-data .ldfbt-course-image-wrapper {
+    overflow: hidden;
+    position: relative;
+    padding-right: 15px;
+}
+
+/* 150px Width and Height Image looks too huje on mobile phones */
+@media screen and (max-width: 500px) {
+    .ldfbt-course-list-data .ldfbt-course-image-wrapper {
+        min-width: 115px !important;
+        width: 115px !important;
+    }
+}
+
+/* Salient Theme adds margin-bottom of 15px */
+.ldfbt-course-image-wrapper .ldfbt-course-img {
+    margin: 0 !important;
+}
+
+/* Course details including price and students count */
+.ldfbt-course-card {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    white-space: nowrap;
+}
+
+.ldfbt-course-card .leftCarddata { 
+    width: 65%;
+}
+
+.ldfbt-course-card .leftCarddata a {
+    text-decoration: none;
+}
+
+.ldfbt-course-card .leftCarddata h3.ldfbt-course-title {
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    font-size: inherit;
+    line-height: 1.4;
+    padding-bottom: 2px;
+}
+
+.ldfbt-course-author-title {
+    font-size: 12px;
+    color: #777;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Custom Hook Container */
+.ldfbt-below-course-title-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Custom Hook Container Inner */
+.ldfbt-below-course-title {
+    padding-top: 0;
+    display: inline-flex;
+    align-items: center;
+}
+
+.ldfbt-course-enroller-count .ldfbt-course-enrolled {
+    display: block; 
+    min-width: 70px; 
+    text-align: left;
+}
+
+@media screen and (max-width: 1000px) and (min-width: 750px) {
+    .ldfbt-course-enroller-count .ldfbt-course-enrolled {
+        min-width: 0px;
+    }
+}
+
+.ldfbt-course-enroller-count .ldfbt-course-enrolled svg { 
+    width: 16px;
+    height: 18px;
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+}
+
+.ldfbt-course-enrolled .ldfbt-course-enrolled-count {
+    font-size: 14px;
+}
+
+.ldfbt-course-price-container {
+    min-width: 70px;
+    text-align: right;
+}
+
+.ldfbt-course-price {
+    color: #333;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 750px) {
+    .ldfbt-course-card {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .ldfbt-course-card .leftCarddata { 
+        width: 100%;
+    }
+
+    .ldfbt-course-plus-icon-container {
+        display: none !important;
+    }
+
+    .ldfbt-course-price-container {
+        text-align: left;
+    }
+}   
+
+.ldfbt-course-plus-icon-container {
+    z-index: 1;
+    position: absolute;
+    top: 90%;
+    left: 30px;
+    display: inline-block;
+    cursor: pointer;
+    height: 40px;
+    width: 40px !important;
+    border-radius: 50%;
+    background: #f0f0f0;
+    box-shadow: 1px 1px 3px #929292;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+}
+
+.ldfbtPriceFtrwrap {
+    border-top: 1px solid #d1d7dc;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    padding-top: 10px;
+}
+
+.ldfbtPriceFtrwrap__left p { 
+    margin-bottom: 0px !important;
+    padding-bottom: 0px;
+}
+
+.ldfbtPriceFtrwrap__left p strong { 
+    color: #000; 
+    font-size: 1.2rem;
+}
+
+.ldfbtPriceFtrwrap__left p span { 
+    font-size: inherit;
+}
+
+@media screen and (max-width: 660px) {
+    .ldfbtPriceFtrwrap {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+    }
+}
+
+.ldfbtPriceFtrwrap #ldfbt-course-add-to-cart {
+    cursor: pointer;
+}

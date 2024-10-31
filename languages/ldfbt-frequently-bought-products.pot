@@ -1,0 +1,320 @@
+# Copyright (C) 2024 SaffireTech
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Frequently Bought Together For LearnDash 2.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/saffire-frequently-bought-together-learndash\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-07T06:12:25+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: ldfbt-frequently-bought-products\n"
+
+#. Plugin Name of the plugin
+msgid "Frequently Bought Together For LearnDash"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.saffiretech.com/frequently-bought-together-for-learndash"
+msgstr ""
+
+#. Description of the plugin
+msgid "Frequently Bought Together for LearnDash is a plugin that allows you to display a section that shows courses most usually bought together with the course listing watched by customers."
+msgstr ""
+
+#. Author of the plugin
+msgid "SaffireTech"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.saffiretech.com"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:30
+#: include/ldfbt-class-setting-page.php:25
+msgid "Frequently Bought Together"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:33
+msgid "Frequently Bought Together for LearnDash Settings"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:75
+msgid "FBT Widget Title"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:76
+msgid "Use this setting to give a suitable heading to your Frequently Bough Together widget"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:84
+msgid "Choose Frequently Bought Together (FBT) Configuration"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:85
+msgid "Please choose the plugin with which you intend to sell courses on this site."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:90
+msgid "WooCommerce"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:93
+msgid "Easy Digital Downloads (EDD)"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:102
+msgid "Display enroll count for the course"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:103
+msgid "Shows a count of users (who enrolled for that course) next to each course in the FBT widget."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:114
+msgid "FBT Widget Display"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:115
+msgid "This setting helps you select the way in which you want to show your Frequently Bough Together widget on the course page. The default setting is \"After Course Description\" . This will show the widget  just below the course description. If you want to show the widget at a different position on the course page, then you can choose \"Using Shortcode\" option. You can copy the shortcode and place it anywhere on the LearnDash course page."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:119
+msgid "After Course Description"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:120
+msgid "Using Shortcode [ldfbt_frequently_bought_product]"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:128
+msgid "Image size for products in FBT Widget"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:129
+msgid "Please choose the size of the image of product to be shown in the Frequently Bough Together widget."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:133
+msgid "Small ( 100 X 100 )"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:134
+msgid "Medium ( 150 X 150 )"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:141
+#: include/ldfbt-class-setting-fields.php:160
+msgid "WooCommerce FBT Setting"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:148
+msgid "Discount Label"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:149
+msgid "Use this setting to give a suitable discount label in woocommerce cart"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:166
+msgid "Show FBT Widget on WooCommerce Product page"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:167
+msgid "If you enable this setting FBT widget will also show on the WooCommerce product page."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:178
+msgid "Easy Digital Downloads (EDD) FBT Setting"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:184
+msgid "Show FBT Widget on EDD product page"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:185
+msgid "If you enable this setting FBT widget will also show up on the EDD dowload page."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:197
+msgid "Show FBT Discount on Emails, Reciepts & Orders"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:198
+msgid "By default, EDD doesn't show discount seperatly on email, recipts and orders. If you enable this setting, then you'll be able to show FBT discounts seperately on all emails, recipts and order dashbaord."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:293
+msgid "Unlock Advanced Features For Frequently Bought Together for LearnDash"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:301
+msgid "100% Risk-Free Money Back Guarantee!"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:302
+msgid "We guarantee you a complete refund for new purchases or renewals if a request is made within 15 Days of purchase."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:303
+msgid "Upgrade To Pro !"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:310
+msgid "Bundle Standard WooCommerce Product Types with Courses"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:310
+msgid "Now,  you can club Simple and Variation Product types along with your courses for a more comprehensive offering!"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:311
+msgid "Bundle & Save"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:311
+msgid "Unlock exclusive savings with fixed or percentage discounts on course bundles."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:312
+msgid "Flexible Widget Placement"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:312
+#: saffire-frequently-bought-together-learndash.php:135
+msgid "Effortlessly integrate the FBT widget wherever you like, post-course description or via shortcode."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:313
+msgid "Enhanced Visibility"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:313
+#: saffire-frequently-bought-together-learndash.php:136
+msgid "Spotlight your FBT offers on WooCommerce product pages and EDD downloads for increased engagement."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:314
+msgid "Discounts on Display"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:314
+#: saffire-frequently-bought-together-learndash.php:137
+msgid "Ensure your learners see their savings everywhere, from emails to receipts and orders, with WooCommerce EDD."
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:315
+msgid "Customizable Image Sizing"
+msgstr ""
+
+#: include/ldfbt-class-setting-fields.php:315
+msgid "Tailor the FBT widget's visuals with adjustable image sizes to fit your site's style perfectly."
+msgstr ""
+
+#: include/ldfbt-frequently-bought-widget.php:238
+msgid "Add all item to Cart"
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:125
+msgid "Settings"
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:131
+msgid "Found EDD and WooCommerce and its integration plugin missing install any one to work with plugin "
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:138
+msgid "WooCommerce and / or LearnDash WooCommerce Integration plugin' are found to be deactivated or not installed. Please activate / install it to make 'Frequently Bought Together For LearnDash' plugin work"
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:144
+msgid "Easy Digital Downloads(EDD) and / or LearnDash EDD Integration plugin  are found to be deactivated or not installed. Please activate / install it to make 'Frequently Bought Together For LearnDash' plugin work."
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:159
+msgid "Permission Denied."
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:192
+msgid "Awesome, you've been using"
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:192
+msgid "for more than 1 week"
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:193
+msgid "If you like our plugin Would you like to rate our plugin at WordPress.org ?"
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:194
+msgid "Yes, I'd like to rate it!"
+msgstr ""
+
+#: include/ldfbt-setting-functions.php:194
+msgid "I already did!"
+msgstr ""
+
+#: include/ldfbt-widget-metabox.php:115
+msgid "Frequently Bought Together Widget"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:65
+msgid "Free version deactivated Pro version Installed"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:132
+msgid "Looking for this cool feature? Go Pro!"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:133
+msgid "Go with our premium version to unlock the following features:"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:134
+msgid "Bundle & Save unlock exclusive savings with fixed or percentage discounts on course bundles."
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:138
+msgid "Bundle Standard WooCommerce Product Types (Simple and Variation) along with your courses for a more comprehensive offering!"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:139
+msgid "Pro Field Alert!"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:140
+msgid "Upgrade Now!"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:158
+msgid "setting"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:159
+msgid "UpGrade to Pro !"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:187
+msgid "Important Update for Frequently Bought Together (FBT) :"
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:187
+msgid "We have made a significant change in how the Frequently Bought Together (FBT) works. It now uses Product IDs / Download IDs instead of course IDs."
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:187
+msgid "While we have ensured that your existing configurations remain unaffected, we strongly recommend that you review your courses FBT metabox settings."
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:187
+msgid "If you find the FBT metabox empty, you might have to re-add the products to ensure everything works as expected.  If you have any queries or need assistance please reach out to us on "
+msgstr ""
+
+#: saffire-frequently-bought-together-learndash.php:187
+msgid "plugin support "
+msgstr ""
